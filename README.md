@@ -7,8 +7,9 @@
 [![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)]()
 
-![Linguagens](https://github-readme-stats.vercel.app/api?username=GraziellyRaissa1&show_icons=true&theme=midnight-purple) ![Grazi Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GraziellyRaissa1&layout=donut)
+![Linguagens](https://github-readme-stats.vercel.app/api?username=GraziellyRaissa1&show_icons=true&theme=midnight-purple) 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GraziellyRaissa1&layout=compact)
 
 ## Redes Sociais 🐈‍⬛
 
@@ -18,3 +19,29 @@
 
 
 ### O crescimento pessoal e profissional está fora da zona de conforto. Aprenda a apreciar a zona de desconforto, pois é lá que o seu futuro é traçado.💭💡
+
+ame: Generate Datas
+
+on:
+  schedule: # execute every 12 hours
+    - cron: "* */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    name: Jobs to update datas
+    runs-on: ubuntu-latest
+    steps:
+      # Snake Animation
+      - uses: Platane/snk@master
+        id: snake-gif
+        with:
+          github_user_name: rafaballerini
+          svg_out_path: dist/github-contribution-grid-snake.svg
+
+      - uses: crazy-max/ghaction-github-pages@v2.1.3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
