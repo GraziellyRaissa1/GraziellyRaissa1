@@ -20,3 +20,9 @@
 
 ### O crescimento pessoal e profissional está fora da zona de conforto. Aprenda a apreciar a zona de desconforto, pois é lá que o seu futuro é traçado.💭💡
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YourUser/YourUser/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GraziellyRaissa1/GraziellyRaissa1/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GraziellyRaissa1/GraziellyRaissa1/output/github-contribution-grid-snake.svg">
+</picture>
+
