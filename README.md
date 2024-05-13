@@ -1,4 +1,4 @@
-<img width=100% bottom=50px src="https://github.com/GraziellyRaissa1/GraziellyRaissa1/assets/147439694/509fca09-4479-4d79-a644-45a1945ac350"/>
+<img width=100% bottom=50px src="https://github.com/GraziellyRaissa1/GraziellyRaissa1/assets/147439694/7a0b676b-fa1c-4163-9ab0-098bf9636c8f"/>
 <br> 
 <br>
 <br> 
