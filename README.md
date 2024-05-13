@@ -1,6 +1,17 @@
+<img width=100% bottom=50px src="https://github.com/GraziellyRaissa1/GraziellyRaissa1/assets/147439694/509fca09-4479-4d79-a644-45a1945ac350"/>
 
+
+<br> 
 <br>
-<br>
+
+
+
+<div align="center">
+  
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7009F&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=+++++++++++++++++Ol%C3%A1%2C+me+chamo+Grazielly+Raissa!;+++++++++++++++++++Sou+desenvolvedora+Full-Stack+C%23" alt="Typing SVG" /></a>
+
+</div>
+
 
 <div align="center">
   
