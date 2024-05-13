@@ -1,17 +1,16 @@
 <img width=100% bottom=50px src="https://github.com/GraziellyRaissa1/GraziellyRaissa1/assets/147439694/509fca09-4479-4d79-a644-45a1945ac350"/>
-
-
 <br> 
 <br>
-
-
-
+<br> 
+<br>
 <div align="center">
   
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7009F&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=+++++++++++++++++Ol%C3%A1%2C+me+chamo+Grazielly+Raissa!;+++++++++++++++++++Sou+desenvolvedora+Full-Stack+C%23" alt="Typing SVG" /></a>
 
 </div>
 
+<br> 
+<br>
 
 <div align="center">
   
@@ -42,21 +41,21 @@
 </div>
 
 
-### Main skills:
+### skills:
 <div align="left"> 
-<img align="left" height="84" width="84" src="https://github.com/GraziellyRaissa1/GraziellyRaissa1/assets/147439694/32e7244d-0860-472b-960b-f04c80b2973c">
+<img align="left" height="64" width="64" src="https://github.com/GraziellyRaissa1/GraziellyRaissa1/assets/147439694/32e7244d-0860-472b-960b-f04c80b2973c">
 
-<img align="left" height="80" width="80" src="https://github.com/GraziellyRaissa1/GraziellyRaissa1/assets/147439694/7080568a-1650-4905-8799-0e9e41bb14bd">
+<img align="left" height="60" width="60" src="https://github.com/GraziellyRaissa1/GraziellyRaissa1/assets/147439694/7080568a-1650-4905-8799-0e9e41bb14bd">
 
-<img align="left"  height="80" width="80" src="https://github.com/GraziellyRaissa1/GraziellyRaissa1/assets/147439694/79ca8d5a-88f8-4164-aafc-255617f6d144">
+<img align="left"  height="60" width="60" src="https://github.com/GraziellyRaissa1/GraziellyRaissa1/assets/147439694/79ca8d5a-88f8-4164-aafc-255617f6d144">
 
-<img align="left"  height="80" width="80" src="https://github.com/GraziellyRaissa1/GraziellyRaissa1/assets/147439694/41f37dfb-fd38-4808-abd0-391ccdde60e9">
+<img align="left"  height="60" width="60" src="https://github.com/GraziellyRaissa1/GraziellyRaissa1/assets/147439694/41f37dfb-fd38-4808-abd0-391ccdde60e9">
 
-<img align="left"  height="80" width="80" src="https://github.com/GraziellyRaissa1/GraziellyRaissa1/assets/147439694/a6c340c0-3bd4-44d1-829a-c49ad5d3fe50">
+<img align="left"  height="60" width="60" src="https://github.com/GraziellyRaissa1/GraziellyRaissa1/assets/147439694/a6c340c0-3bd4-44d1-829a-c49ad5d3fe50">
 
-<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/e3520d7c-c3c2-4dff-90e2-86355adc6f7c">
+<img align="left"  height="60" width="60" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/e3520d7c-c3c2-4dff-90e2-86355adc6f7c">
 
-<img align="left"  height="80" width="80" src="https://github.com/GraziellyRaissa1/GraziellyRaissa1/assets/147439694/a94fb88f-6d1c-4a5b-b0ae-360b52b937f0">
+<img align="left"  height="60" width="60" src="https://github.com/GraziellyRaissa1/GraziellyRaissa1/assets/147439694/a94fb88f-6d1c-4a5b-b0ae-360b52b937f0">
 
 
 
